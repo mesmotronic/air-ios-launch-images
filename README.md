@@ -5,5 +5,11 @@ Put these blank launch images in your `src` folder and add them to the root of y
 
 Total size: <8KB
 
-
 More information about the launch images and icons needed for Adobe AIR for iOS is available [here](http://help.adobe.com/en_US/air/build/WS901d38e593cd1bac1e63e3d129907d2886-8000.html#WS901d38e593cd1bac58d08f9112e26606ea8-8000).
+
+Make a donation
+---------------
+
+If you find this project useful, why not buy us a coffee (or as many as you think it's worth)?
+
+[![Make a donation](https://www.paypalobjects.com/en_US/GB/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=onlinepayment@mesmotronic.com&item_name=Donation+to+open+source+(Adobe+AIR+for+iOS+launch+images)&currency_code=GBP)
